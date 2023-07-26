@@ -1,0 +1,120 @@
+*{ margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+    
+}
+
+.title{
+    background-color:lawngreen;
+    height: 230px;
+    
+}
+h1{
+    position: relative;
+    background-color: lawngreen;
+    top: 25px;
+    float: right;
+    right: 220px;
+}
+
+#title{
+    position: relative;
+    bottom: -40px;
+    right: 105px;
+    float: right;
+    
+}
+.navbar ul {
+    display: flex;
+    padding: 20px 0px;
+    
+}
+.navbar ul li {
+    padding :0px 30px;
+    margin-left: 80px;
+    list-style: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(56, 59, 225);
+}
+.Main{
+    display: inline-block;
+    /* position: relative; */
+    text-align: center;
+    text-decoration: underline;
+    /* left: 22px; */
+    padding: 30px;
+}
+.Block{
+    /* position: relative; */
+    /* left: 22px; */
+    padding-top: 22px;
+    padding: 30px;
+    display: inline-block;
+}
+h2{
+    display: inline-block;
+    position: relative;
+    bottom: 13px;
+    width: 190px;
+    height: 40px;
+    text-align: center;
+    background-color: lawngreen;
+}
+p.B{
+    display: inline-block;
+    padding-top: 22px;
+    width: 20%;
+    text-align: start;
+}
+
+h3{
+    font-size: 35px;
+    padding-bottom: 4px;
+    
+}
+.gallery{
+    display: inline-block;
+    width: 75%;
+    position: absolute;
+    bottom: 180px;
+    left: 250px;
+}
+.Sub{
+    display: inline-block;
+    width: 40%;
+    position: absolute;
+    top: 500px;
+    right: 480px;
+    text-align: start;
+}
+.OS{
+    display: inline-block;
+    width: 30%;
+    text-align: start;
+    position: absolute;
+    right: 52px;
+    bottom: -135px;
+}
+.S{
+    padding-bottom: 22px;
+}
+.button{
+    background-color: lawngreen;
+    margin-bottom: 22px;
+    padding: 8px;
+}
+.btn{
+    position: relative;
+        left: 50px;
+}
+
+footer{
+    background-color: lawngreen;
+    text-align: center;
+    font-weight: 100;
+    height: 28px;
+    padding: 12px;
+}
